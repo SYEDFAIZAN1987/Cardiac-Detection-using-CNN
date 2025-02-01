@@ -54,13 +54,13 @@ python CardiacDetection.py  # Or open the notebook CardiacDetection.ipynb
 ```
 
 4️⃣ **Visualize Results:**  
-Check CAM outputs and bounding boxes in the generated logs.
+Check outputs and bounding boxes in the generated logs.
 
 ---
 
 ## 📊 **Sample Results**
 - Bounding boxes correctly identify cardiac regions.
-- Class Activation Maps highlight crucial areas influencing predictions.
+
 
 ---
 
